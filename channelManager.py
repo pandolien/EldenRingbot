@@ -5,4 +5,7 @@ class ChannelManager:
         return;
     def Destroy(self):
         return;
-    def 
+    def run_(self):
+        return;
+    def run(self):
+        return;

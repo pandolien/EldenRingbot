@@ -13,3 +13,4 @@ async def 안녕(ctx):
     await ctx.send("안녕하세요, 디스코드 봇이에요!")
 
 bot.run("")
+ 
